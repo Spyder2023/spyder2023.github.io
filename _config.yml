@@ -1,9 +1,6 @@
 name: "Psalms 119：105"
 description: "Your word is a lamp to my feet And a light to my path."
 
-# avatar: https://pianfan.github.io/images/avatar.png
-# favicon: https://pianfan.github.io/images/favicon.ico
-
 navigation:
   - name: 首页
     url: /
