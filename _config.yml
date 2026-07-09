@@ -1,8 +1,8 @@
-name: "Pianfan's blog"
-description: "翩帆的个人技术博客"
+name: "Psalms 119：105"
+description: "Your word is a lamp to my feet And a light to my path."
 
-avatar: https://pianfan.github.io/images/avatar.png
-favicon: https://pianfan.github.io/images/favicon.ico
+# avatar: https://pianfan.github.io/images/avatar.png
+# favicon: https://pianfan.github.io/images/favicon.ico
 
 navigation:
   - name: 首页
@@ -17,17 +17,13 @@ paginate: 8
 excerpt_separator: <!-- more -->
 
 footer-links:
-  zhihu: 
-  email: yunhan.xiong@foxmail.com
-  facebook:
-  github: pianfan
+  github: spyder
   rss: welcome!
-  twitter: 
-  youtube:
+
 
 footer-text: Copyright (c) 2026 Pianfan
 
-url: https://pianfan.github.io
+url: https://spyder2023.github.io
 
 permalink: /:title/
 paginate_path: /page:num/
